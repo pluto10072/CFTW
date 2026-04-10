@@ -9,7 +9,7 @@ Note：This project has been improved since CFT
   <div style="color:orange; border-bottom: 10px solid #d9d9d9; display: inline-block; color: #999; padding: 10px;"> Fig 1. Overview of our multispectral object detection framework </div>
 </div>
 <div align="center">
-  <img src="backbonev2.png" width="600px">
+  <img src="CFTWv2.png" width="600px">
   <div style="color:orange; border-bottom: 10px solid #d9d9d9; display: inline-block; color: #999; padding: 10px;"> Fig 2. The CFTW module </div>
 </div>
 
